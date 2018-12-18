@@ -1,0 +1,18 @@
+Instalação
+Este projeto requer Python 3.7 e as seguintes bibliotecas Python instaladas:
+
+NumPy
+Pandas
+Seaborn
+Matplotlib
+Missingno
+scikit-learn
+Você também precisará ter software instalado para rodar e executar um iPython Notebook
+
+Código
+Um modelo do código é fornecido no arquivo notebook Final_Project.ipynb. 
+
+Dados
+O conjunto de dados é descrito no relatório Projeto_Final.pdf e está disponível no arquivo ambev.xlsb
+
+Proposta, Metodologia, Resultados e Conclusão são encontrados no relatório Projeto_Final.pdf
